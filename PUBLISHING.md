@@ -3,6 +3,7 @@
 After the Github and Rubygems authenticatication, push with the following command:
 
 ```sh
+gem build geo-regions.gemspec
 gem push --key github --host https://rubygems.pkg.github.com/dcotecnologia geo-regions-1.0.0.gem
 ```
 
