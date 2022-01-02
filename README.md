@@ -81,7 +81,7 @@ GR:City.find(state: "SP", country: "BR", name: "io Cl")
 
 For more samples how to use the gem, check the [HOW_TO_USE.md](HOW_TO_USE.md) file.
 
-If you want to edit the source code and/or contribuct to the gem, please, check the [HOW_TO_USE.md](HOW_TO_USE.md) file.
+If you want to edit the source code and/or contribuct to the gem, please, check the [BUILDING.md](BUILDING.md) and [CONTRIBUTING.md](CONTRIBUTING.md) files.
 
 ## Problems?
 
