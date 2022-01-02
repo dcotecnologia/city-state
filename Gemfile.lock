@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    geo-regions (1.0.0)
+    geo-regions (1.0.1)
       ruby-enum (~> 0.9)
       rubyzip (~> 2.3)
       zip (~> 2.0)

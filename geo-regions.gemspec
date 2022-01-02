@@ -14,7 +14,7 @@ Gem::Specification.new do |spec|
   spec.description   = "Useful to make forms and validations. It uses MaxMind database."
   spec.homepage      = "https://github.com/dcotecnologia/geo-regions"
   spec.license       = "MIT"
-  spec.files = Dir["{lib}/**/*"] + ["LICENSE.txt", "Rakefile", "README.md", "CHANGELOG.md"]
+  spec.files = Dir["{lib}/**/*"] + ["LICENSE.md", "Rakefile", "README.md", "CHANGELOG.md"]
   spec.required_ruby_version = ">= 2.5"
   spec.test_files = Dir["spec/**/*"]
 
