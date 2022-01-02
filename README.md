@@ -74,7 +74,7 @@ If you want to edit the source code and/or contribuct to the gem, please, check 
 **Please do not directly email any committers with questions or problems.**  A
 community is best served when discussions are held in public.
 
-Searching the [issues](https://github.com/dcotecnologia/geo-regions-ruby/issues)
+Searching the [issues](https://github.com/dcotecnologia/geo-regions/issues)
 for your problem is also a good idea.
 
 ## Contributing

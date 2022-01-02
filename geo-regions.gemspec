@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["danilogcarolino@gmail.com"]
   spec.summary       = "Simple list of cities and states of the world"
   spec.description   = "Useful to make forms and validations. It uses MaxMind database."
-  spec.homepage      = "https://github.com/dcotecnologia/geo-regions-ruby"
+  spec.homepage      = "https://github.com/dcotecnologia/geo-regions"
   spec.license       = "MIT"
   spec.files = Dir["{lib}/**/*"] + ["LICENSE.txt", "Rakefile", "README.md", "CHANGELOG.md"]
   spec.required_ruby_version = ">= 2.5"
