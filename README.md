@@ -1,5 +1,6 @@
 # geo-regions Ruby Gem
 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](LICENSE.md)
 [![Build](https://github.com/dcotecnologia/geo-regions-ruby/actions/workflows/build.yml/badge.svg)](https://github.com/dcotecnologia/geo-regions-ruby/actions/workflows/build.yml)
 [![CodeQL](https://github.com/dcotecnologia/geo-regions/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/dcotecnologia/geo-regions/actions/workflows/codeql-analysis.yml)
 [![Gem Version](https://badge.fury.io/rb/geo-regions.svg)](https://badge.fury.io/rb/geo-regions)
@@ -109,7 +110,10 @@ isolate to its own commit so I can cherry-pick around it.
 
 ## License
 
-Please see [LICENSE](LICENSE.txt) for licensing details.
+Please see [LICENSE](LICENSE.md) for licensing details.
+
+This product includes GeoLite2 data created by MaxMind, available from
+[https://www.maxmind.com](https://www.maxmind.com). You can find the License of the databases [here](LICENSE-CC-BY-4.0.md).
 
 ## Creators and maintainers
 
