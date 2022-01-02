@@ -1,9 +1,23 @@
 # HOW TO USE THE GEM
 
-* Add to your project:
+* Add to your project from RubyGems:
 
 ```ruby
-gem "geo-regions"
+gem "geo-regions", "~> 1.0.0"
+```
+
+* You can install it directly from the GitHub packages also:
+
+```ruby
+source "https://rubygems.pkg.github.com/dcotecnologia" do
+  gem "geo-regions", "~> 1.0.0"
+end
+```
+
+* Or:
+
+```ruby
+gem "geo-regions", github: "dcotecnologia/geo-regions", tag: "v1.0.0"
 ```
 
 By default, the gem uses the default locale of the i18n library. You can set a custom locale setting a custom configuration:
