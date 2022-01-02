@@ -6,7 +6,7 @@ RSpec.describe GR::Country do
   describe "#all" do
     subject { described_class.all }
 
-    it { expect(subject).to have_attributes(count: 252) }
+    it { expect(subject).to have_attributes(count: 250) }
   end
 
   describe "#is_in_european_union?" do

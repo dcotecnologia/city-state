@@ -36,6 +36,7 @@ class GR::Country
       country_name = helper.sanatize_name(rec[POS.country_name])
       is_in_european_union = helper.sanatize_name(rec[POS.is_in_european_union])
 
+      next if country_name.nil? || country_name == ""
       next if name && !country_name.include?(name)
 
       country = new(
