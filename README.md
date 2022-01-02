@@ -110,6 +110,7 @@ isolate to its own commit so I can cherry-pick around it.
 
 Please see [LICENSE](LICENSE.txt) for licensing details.
 
-## Authors
+## Creators and maintainers
 
 Danilo Carolino, [@danilogco](https://github.com/danilogco) / [@DCO Tecnologia](https://github.com/dcotecnologia)
+Daniel Loureiro, [@loureirorg](https://github.com/loureirorg) - creator of the [city-state gem](https://github.com/loureirorg/city-state)
