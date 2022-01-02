@@ -1,5 +1,8 @@
 # geo-regions Ruby Gem
 
+[![Build](https://github.com/dcotecnologia/geo-regions-ruby/actions/workflows/build.yml/badge.svg)](https://github.com/dcotecnologia/geo-regions-ruby/actions/workflows/build.yml)
+[![Gem Version](https://badge.fury.io/rb/geo-regions.svg)](https://badge.fury.io/rb/geo-regions)
+
 A very simple ruby gem to get a list of states in a country. Also, you can get a
 list of cities in a state, and a list of all countries of the world.
 
